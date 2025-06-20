@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       body: Column(
         children: [
           Container(
-            height: 470,
+            height: 400,
             width: double.infinity,
             decoration: const BoxDecoration(
               color: Color(0xFF95562F),
